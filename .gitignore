@@ -1,5 +1,5 @@
 # node files
-dist
+src
 node_modules
 
 # iOS files
